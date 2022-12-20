@@ -12,7 +12,7 @@
 | **netwhat**       | [![jhwang's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2062925)](https://github.com/JaeSeoKim/badge42) |
 | **get_next_line** | [![jhwang's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2861217)](https://github.com/JaeSeoKim/badge42) |
 | **ft_printf**     | [![jhwang's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2884525)](https://github.com/JaeSeoKim/badge42) |
-| Born2beroot |  |
+| Born2beroot | [![jhwang's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2899402)](https://github.com/JaeSeoKim/badge42) |
 
 ### 2 Circle
 | Project | Result |
