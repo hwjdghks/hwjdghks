@@ -17,6 +17,6 @@
 ### 2 Circle
 | Project | Result |
 | - | - |
-| **minitalk** |  |
+| **minitalk** | [![jhwang's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2919163)](https://github.com/JaeSeoKim/badge42) |
 |  |  |
 | **push_swap** |  |
