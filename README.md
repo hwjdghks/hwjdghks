@@ -18,5 +18,5 @@
 | Project | Result |
 | - | - |
 | **minitalk** | [![jhwang's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2919163)](https://github.com/JaeSeoKim/badge42) |
-| **FdF** |  |
+| **FdF** | [![jhwang's 42 FdF Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2949963)](https://github.com/JaeSeoKim/badge42) |
 | **push_swap** |  |
