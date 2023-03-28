@@ -20,3 +20,9 @@
 | **minitalk** | [![jhwang's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2919163)](https://github.com/JaeSeoKim/badge42) |
 | **FdF** | [![jhwang's 42 FdF Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2949963)](https://github.com/JaeSeoKim/badge42) |
 | **push_swap** | [![jhwang's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/2982153)](https://github.com/JaeSeoKim/badge42) |
+
+### 3 Circle
+| Project | Result |
+| - | - |
+| **minishell** |  |
+| **Philosopers** |  |
