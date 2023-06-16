@@ -26,5 +26,5 @@
 | Project | Result |
 | - | - |
 | **Exam Rank 03** | [![jhwang's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/3044502)](https://github.com/JaeSeoKim/badge42) |
-| **minishell**    |  |
+| **minishell**    | [![jhwang's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9xv8g0400490fliuujexogw/project/3063950)](https://github.com/JaeSeoKim/badge42) |
 | **Philosopers**  |  |
